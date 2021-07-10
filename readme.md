@@ -1,8 +1,11 @@
 BlueSG monthly cost calculator
 
+requirements:
+Python 3.7 and above
+
 how to use:
 1. Go to your BlueSG account portal, click on "my rentals", and download the list of rentals
-2. Install pandas library ("pip install pandas")
+2. Install pandas library and openpyxl("pip install pandas", "pip install openpyxl")
 3. line 3, change the file path to the file path you downloaded in step 1
 4. Run the code
 
